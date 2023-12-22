@@ -1,0 +1,16 @@
+- name: tulasi
+  age: 28
+  address: 
+    address-line1: gudipudi
+    address-line2: sattenapalle
+    city: guntur
+
+- name: gopitulasi
+  age: 38
+  address: 
+  - address-line1: gudipudi1
+    address-line2: sattenapalle1
+    city: guntur1
+  - address-line1: gudipudi2
+    address-line2: sattenapalle2
+    city: guntur2
